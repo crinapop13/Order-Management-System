@@ -1,0 +1,8 @@
+Invoice no. 182
+Date null
+
+Bill to: Pop Crina
+Address: Simleu Silvaniei
+Phone: 0755322345
+Description: 
+Name: Ulei de motor Quantity: 80 Price: 40.0 Total: 3200.0 lei

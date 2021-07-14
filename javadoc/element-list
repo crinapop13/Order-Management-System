@@ -1,0 +1,8 @@
+ro.tuc.tp
+ro.tuc.tp.BLL
+ro.tuc.tp.BLL.Validators
+ro.tuc.tp.Connection
+ro.tuc.tp.DAO
+ro.tuc.tp.Model
+ro.tuc.tp.Presentation
+ro.tuc.tp.Presentation.View
